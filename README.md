@@ -1,2 +1,2 @@
-# Project1
+# Marketing Accessibility
 Week1 Bootcamp - Marketing and accessibility.
