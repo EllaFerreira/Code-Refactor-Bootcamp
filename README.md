@@ -29,10 +29,6 @@ Week1 - Code Refractor
   
   
   ![Screen Shot 2021-07-12 at 1 28 57 pm](https://user-images.githubusercontent.com/84433857/125228104-84669380-e317-11eb-9e3f-f1cd72618220.png)
-
-
-  
-  
   ![Screen Shot 2021-07-12 at 1 31 35 pm](https://user-images.githubusercontent.com/84433857/125227988-3baeda80-e317-11eb-8d2b-6aef0f745683.png)
 
 # Check out the results:
