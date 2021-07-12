@@ -1,6 +1,6 @@
-# Code Refractor
+# Code Refactor
 
-  Week1 - Code Refractor
+  Week1 - Code Refactor
 
   #Acceptance Criteria
   
