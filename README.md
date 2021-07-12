@@ -1,8 +1,8 @@
 # Code Refractor
 
-Week1 - Code Refractor
+  Week1 - Code Refractor
 
-#Acceptance Criteria
+  #Acceptance Criteria
   GIVEN a webpage meets accessibility standards
   WHEN I view the source code
   THEN I find semantic HTML elements
@@ -15,14 +15,14 @@ Week1 - Code Refractor
   WHEN I view the title element
   THEN I find a concise, descriptive title
 
-#What I did
+  #What I did
   I created a semantic HTML structure, using <nav>,<article>,<main> and <footer>.
   I commented on the HTML and CSS about each choice.
   I added the Alt attribute to the <img> to better describe it.
   I created id attributes to the <nav>.
   I created a title to the html link.
 
-#Image
+  #Image
 
   
   
