@@ -28,13 +28,13 @@
 
   #What I did
   
-  I created a semantic HTML structure, using <nav>,<article>,<main> and <footer>.
+  I created a semantic HTML structure, using the tags nav , article ,main and footer.
   
   I commented on the HTML and CSS about each choice.
   
-  I added the Alt attribute to the <img> to better describe it.
+  I added the Alt attribute to the img to better describe it.
   
-  I created id attributes to the <nav>.
+  I created id attributes to the nav.
   
   I created a title to the html link.
 
